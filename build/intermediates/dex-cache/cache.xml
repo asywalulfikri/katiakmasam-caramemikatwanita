@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_65333c34d88182bb8c760d8ee18121abf65dd94a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="783127c8b1d23b84cccc3dc776ca4637d4aba900">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.0.1_bcfed750be80abbce23c908e20b61b7304c138ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_58b193beb7b32d548ebddf9b661dbc7d15de51f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_44225ddb0546df91e94d81cc3c81ed1b6159713e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_0ed2e6670fbe9b474a7678d7dec93b039582c1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a912112797461c7dc021f32d39e7cc41ebbbdbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_eb6006ff5489f6e2ef01c3e387b4b82b1a237c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="698658e3af1e3f2a5b199e0d09ee6c57793405bd">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/it.sephiroth.android.library.horizontallistview-hlistview-1.2.2_99caa5e82c8eabf1768aa3f59821440e7c25ff75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_9d16572d4745c8ec04f7cb0694f231a882e2c194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_a8341282a9e3cda5f02dcc52c99776b0f2d31989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_d6435d47f61013ea7868fa4b48d58494bc49fe46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_a149220f559ebe6f9d3e61bd58c66524e94d77ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.lapism/searchview/3.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63d9b02dc0a3d94ffb3de882baaec489c6f797a5">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.lapism-searchview-3.6_e53aa6839bca319cc56091116c7f0036aec17943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_ee219c74051abe66214227dcc291c4fad3d2aa4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4ffdb4389e0bc03a351cf7d43b9a4d751aad8c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/libs/prettytime-3.1.0.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf4f64c8a2b41c6da512995916a6c54aa61a8b80">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/prettytime-3.1.0.Final_99d7b03271f509af77ba471191a26b7185120597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_8260fe556b55880afed790fdc67787e42ed913e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_5c74d309b036955ae66513d7c29fe7e4b7e57590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_2ca054ee8b74fb82de799cfef26c72222b75b200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.4.0_78a662930193eeb0f0060e613741259c021235f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.4.0_f18628aae4de867e437309698f8bebbd7dbb9dbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/library-1.0.19_ca2ab6e63c65975f6f366a9d66d6cbbf1161dae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_7b8cfd8876c3b2bfb8255f49a5a8981b1d626096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_1959f25655189fce99b55f87ce762d352d8de370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c73bf5a7b073cb941028bbea061c3e9e938fe76e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_9a0052e75a953eac2bb358124124aca16ec74b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.4.0_8a459083f78991e258e8ac25448baf36382a637c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_86e6e4caafa2c6c29bf6a563a66f479446dac3bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_831ad7480553a2f41e9dbb225ae308ad5b82f96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.4.0_be55f1766aa2daec6ee7aff96208ae31232d3cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_b5cf683cac2fccbe49db29b4ba04daaa79703ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_b2c7b6f1fbbdcfd75efda0565f5262bde4c0748b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/asywalulfikri/Documents/workspace/CaraMemikatWanita/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0c58317209760558df963e17e3e6aaea604249fd.jar" />
+    </item>
+
+</items>
